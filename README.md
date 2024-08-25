@@ -1,2 +1,2 @@
 # Hyprland_buing
-hb
+I installed Hyprland on Kali linux. However, I cannot start the environment.  Below is the log file
