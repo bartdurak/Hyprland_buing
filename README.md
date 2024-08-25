@@ -1,0 +1,2 @@
+# Hyprland_buing
+hb
